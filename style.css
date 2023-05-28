@@ -100,3 +100,31 @@ button {
 button:hover { 
     background-color: #fff7b4;
 }
+
+.footer {
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #000;
+}
+
+.footer a:hover{
+    text-decoration: underline;
+}
+
+.footer img {
+    width: 30px;
+    height: 30px;
+    margin-bottom: -7px;
+    margin-left: 5px;
+}
+
+.footer p {
+    margin-top: 10px;
+    font-size: 15px;
+    color: #444;
+}
